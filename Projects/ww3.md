@@ -10,9 +10,12 @@ This works best for communicating online as it generally provides the most relev
 - Source
 - License
 
-![figure1](/oerg.png)
+![What is Open Ed.PNG]({{site.baseurl}}/Projects/What is Open Ed.PNG)
+Slide Citation: ["Introduction to Open Pedagogy"](https://speakerdeck.com/actualham/introduction-to-open-pedagogy) by Robin DeRosa & Rajiv Jhangiani. February 20, 2019. 
+CC BY. 
 
-Figure 1: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Education Initiative.”](https://wcetfrontiers.org/2019/02/06/successful-institutional-open-education-initiative/) WCET Frontiers, 6 Feb. 2019.
+![oerg.PNG]({{site.baseurl}}/Projects/oerg.PNG)
+Citation: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Education Initiative.”](https://wcetfrontiers.org/2019/02/06/successful-institutional-open-education-initiative/) WCET Frontiers, 6 Feb. 2019.
 
 
 [Slides](https://speakerdeck.com/actualham/introduction-to-open-pedagogy)
