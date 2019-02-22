@@ -28,6 +28,9 @@ At the end of this Faculty Educational Workshop, participants will be able to:
 Introduce the concept of “Open” and discuss the concept of Open as it applies more broadly to research, technology, government, art and education.
 
 
+![WhyOpenSteel.PNG]({{site.baseurl}}/Projects/WhyOpenSteel.PNG)
+
+
 # Final Project Options (non-exclusive)
 
 ## Adopt (Pressbooks or Canvas)
