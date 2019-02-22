@@ -2,6 +2,8 @@
 
 ## Welcome/Intro/L.O./Paperwork Reqs for Adjuncts
 
+## Summary: Intro to "Open" and some tools
+
 ### FEW Learning Outcomes
 At the end of this Faculty Educational Workshop, participants will be able to:
 - Properly identify the Creative Commons (CC) license on a resource.
