@@ -1,6 +1,6 @@
 # Open Pedagogy & Universal Design
 
-## Putting a Free License On Your Work
+## Activity: Putting a Free License On Your Work
 
 This works best for communicating online as it generally provides the most relevant information for independent retrieval.
 
@@ -14,6 +14,8 @@ This works best for communicating online as it generally provides the most relev
 
 Figure 1: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Education Initiative.”](https://wcetfrontiers.org/2019/02/06/successful-institutional-open-education-initiative/) WCET Frontiers, 6 Feb. 2019.
 
+
+[Slides](https://speakerdeck.com/actualham/introduction-to-open-pedagogy)
 
 ## Wrap Up
 OER Stewardship
