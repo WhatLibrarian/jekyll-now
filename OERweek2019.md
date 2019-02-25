@@ -8,6 +8,7 @@ Time: Mar 8, 2019 1:00 - 2:00 PM
 
 [ppt]
 
+!['Mid April in McKernan' detail - Kari Duke Come down and see new work by Kari Duke and Tom Gale.]({{site.baseurl}}/'Mid April in McKernan' detail - Kari Duke Come down and see new work by Kari Duke and Tom Gale.)
 
 
 
