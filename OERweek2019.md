@@ -8,6 +8,26 @@ Time: Mar 8, 2019 1:00 - 2:00 PM
 
 ## Making Open Textbooks with Pressbooks - a small Community College perspective 
 
+Short Description: With resources lean we were priveledged to be able to rely on large community run open source projects to meet the pedegogical needs of our faculty teachers and students to enable them to engage with OER in ways that can also increase student success.
+
+
+PPT Slide 1
+
+Notes: 
+
+
+PPT Slide 2
+
+Notes
+
+PPT Slide 3
+
+Notes
+
+PPT Slide 4
+
+Notes
+
 
 # Works Cited
 
