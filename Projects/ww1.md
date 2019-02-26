@@ -3,7 +3,7 @@
 ## Land Acknowledgement
 "We acknowledge that this land is the tradtional territory of the Lummi and Nooksack Peoples. their presence is imbued in thoses mountains, valleys, waterways, and shorelines. May we nurture our relationships with our coast Salish neighbors, and the shared responsibilities to their homelands where we are reside today."
 
-![Image ID: fish7476, NOAA's Historic Fisheries Collection Location: Washington, Lummi Island Photo Date: 1895 Photographer: Archival Photographer Stefan Claesson Credit: Gulf of Maine Cod Project, NOAA National Marine Sanctuaries; Courtesy of National Archives ]({{site.baseurl}}/https://www.photolib.noaa.gov/bigs/fish7476.jpg)
+![Image ID: fish7476, NOAA's Historic Fisheries Collection Location: Washington, Lummi Island Photo Date: 1895 Photographer: Archival Photographer Stefan Claesson Credit: Gulf of Maine Cod Project, NOAA National Marine Sanctuaries; Courtesy of National Archives ](https://www.photolib.noaa.gov/bigs/fish7476.jpg)
 
 ## Welcome/Intro/L.O./Paperwork Reqs for Adjuncts
 
@@ -59,26 +59,33 @@ Example Uses in the classroom
 
 Hypothesis can used in an education context to collaboratively annotate course readings and other internet resources.  Below is a list created by Hypothes.is providing ten suggestions on how the tools could be used in the classroom:
 
-    Teacher Annotations
-    Pre-populate a text with questions fro students to reply to in annotations or notes elucidating important points as they read.
-    Annotation as Gloss
-    Have students look up difficult words or unknown words or unknown allusions in a text and share their research as annotations.
-    Annotations as Question
-    Have students highlight, tag and annotate words or passages that are confusing to them in their readings.
-    Annotation as Close Reading
-    Have students identify formal textual elements and broader social and historical contexts at work in specific passages.
-    Annotation as Rhetorical Analysis
-    Have students mark and explain the use of rhetorical strategies in online articles or essays.
-    Annotation as Opinion
-    Have students share their personal opinions on a controversial topic as discussed by an article.
-    Annotation as Multimedia Writing
-    Have students annotate with images or integrate images and video into other types of annotations.
-    Annotations as Independent Study
-    Have students explore the Internet on thier own with some limited direction (find an article from a respectable source on a topic important to you personally), exercising literacy skills (define difficult words, identify persuasive strategies etc.)
-    Annotation as Annotated Bibliography
-    Have students research a topic and tag and annotate relevant texts across the Internet.
-    Annotations as Creative Act
-    Have students respond creatively to their reading with their own poetry, prose or visual art as annotations.
+
+- Teacher Annotations
+-- Pre-populate a text with questions fro students to reply to in annotations or notes elucidating important points as they read.
+- Annotation as Gloss
+-- Have students look up difficult words or unknown words or unknown allusions in a text and share their research as annotations.
+- Annotations as Question
+-- Have students highlight, tag and annotate words or passages that are confusing to them in their readings.
+- Annotation as Close Reading
+-- Have students identify formal textual elements and broader social and historical contexts at work in specific passages.
+- 
+- Annotation as Rhetorical Analysis
+-     Have students mark and explain the use of rhetorical strategies in online articles or essays.
+- 
+- Annotation as Opinion
+-     Have students share their personal opinions on a controversial topic as discussed by an article.
+- 
+- Annotation as Multimedia Writing
+-     Have students annotate with images or integrate images and video into other types of annotations.
+- 
+- Annotations as Independent Study
+-     Have students explore the Internet on thier own with some limited direction (find an article from a respectable source on a topic important to you personally), exercising literacy skills (define difficult words, identify persuasive strategies etc.)
+- 
+- Annotation as Annotated Bibliography
+-     Have students research a topic and tag and annotate relevant texts across the Internet.
+- 
+- Annotations as Creative Act
+-     Have students respond creatively to their reading with their own poetry, prose or visual art as annotations.
 
 [You can read the full article here.](https://web.hypothes.is/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/)
 
