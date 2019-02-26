@@ -6,13 +6,15 @@ Time: Mar 8, 2019 1:00 - 2:00 PM  [Zoom Meeting](https://zoom.us/j/111107245)
 
 ## Making Open Textbooks with Pressbooks - a small Community College perspective 
 
-Short Description: With resources lean we have been priveledged to be able to rely on large community run open source projects to meet the pedegogical needs of our instructors enabling them to engage with OER in ways that contribute to greater information literacy skills.
+**Short Description**: With resources lean we have been priveledged to be able to rely on large community run open source projects to meet the pedegogical needs of our instructors enabling them to engage with OER in ways that contribute to greater information literacy skills.
 
+![Nutshell](https://www.maxpixel.net/static/photo/1x/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652.jpg)[caption]Photo by [Max Pixel](https://www.maxpixel.net/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652), [Creative Commons Zero - CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 PPT Slide 1
 
 Notes: The Problem in a Nutshell
 
+The CCCOER says that "Open education is an attitude, a practice, and a method of teaching that inspires inquiry, equal access to course materials, and sharing lessons and materials with the wider community. At the center of open education is the belief that education is strengthened when shared openly. Open education relies on open educational resources (OER) and open licensing."  At WCC we seen OER evolve from grant developed 1-time resources to a growing culture of curating, sharing and updating materials. We always ask ouselves what problem are we trying to solve?  And there are many problems, for instance, when a faculty member saw herself teaching a survey literature course on Sci-Fi and Fantasy genre she was disatisfied with the existing anthologies which did not feature very many women or people of color.
 
 PPT Slide 2
 
@@ -20,7 +22,7 @@ Notes:  The solution in a Nutshell
 
 PPT Slide 3
 
-Notes: Understanding Copyright and Creative Commons
+Notes: Understanding Copyright and Creative Commons in a Nutshell
 
 PPT Slide 4
 
