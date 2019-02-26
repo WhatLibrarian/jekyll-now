@@ -1,5 +1,9 @@
 # Enhancing Student Success Through the Use of OER
 
+## Land Acknowledgement
+"We acknowledge that this land is the tradtional territory of the Lummi and Nooksack Peoples. their presence is imbued in thoses mountains, valleys, waterways, and shorelines. May we nurture our relationships with our coast Salish neighbors, and the shared responsibilities to their homelands where we are reside today."
+![Image ID: fish7476, NOAA's Historic Fisheries Collection Location: Washington, Lummi Island Photo Date: 1895 Photographer: Archival Photographer Stefan Claesson Credit: Gulf of Maine Cod Project, NOAA National Marine Sanctuaries; Courtesy of National Archives ]({{site.baseurl}}/https://www.photolib.noaa.gov/bigs/fish7476.jpg)
+
 ## Welcome/Intro/L.O./Paperwork Reqs for Adjuncts
 
 ## Summary: Intro to "Open" and some tools
