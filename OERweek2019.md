@@ -44,8 +44,6 @@ Banerjee, K. (2018). **How to Incorporate Open Educational Resources (OER) into 
 
 Cooney, C., Almond, A., Belli, J., & Seto, J. (2018). **Building a Culture of Open Pedagogy from the Platform Up**. Retrieved from http://resolver.tudelft.nl/uuid:9a2ce6ca-2059-463a-b840-82a3003772b6
 
-Green, K. C. (2015, November 18). **OER Issues: Apples, Orchards and Infrastructure** | Inside Higher Ed [Inside Higher Ed.]. Retrieved February 26, 2019, from https://www.insidehighered.com/blogs/digital-tweed/oer-issues-apples-orchards-and-infrastructure
-
 Jones, S. (2018). **A Solution to OER Publication Resistance: Using Blockchain Technology to Protect Scholar Copyright. International Journal of Open Educational Resources,1(1)**. [doi:10.18278/ijoer.1.1.8](http://www.ipsonet.org/publications/open-access/ijoer/ijoer-volume-1-issue-1-fall-2018-winter-2019)
 
 Levin, D. (2018). **OER Technology Infrastructure Assessment. EDTech Strategies, LLC: William + Flora Hewlett Foundation**. Retrieved from https://hewlett.org/library/oer-technology-infrastructure-assessment/
