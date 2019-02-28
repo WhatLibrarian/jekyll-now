@@ -10,6 +10,8 @@ Time: Mar 8, 2019 1:00 - 2:00 PM  [Zoom Meeting](https://zoom.us/j/111107245)
 
 ![Nutshell](https://www.maxpixel.net/static/photo/1x/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652.jpg)*Photo by [Max Pixel](https://www.maxpixel.net/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652), [Creative Commons Zero - CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).*
 
+___
+
 PPT Slide 1
 
 Notes: The Problem in a Nutshell
@@ -18,25 +20,32 @@ The CCCOER says that "Open education is an attitude, a practice, and a method of
 
 We've built this culture through the deliberate and purposeful use of open source software so that the work we do can also be as technically open and interoperatible as possible.  
 
-Despite our size as a small (2500 FTE) rural college we've been able to leverage the collective power of large community driven open software projects to be the backbone of our OER infrastructure. This is important because...
+Despite our size as a small (2500 FTE) rural college we've been able to leverage the collective power of this large community driven open software projects to be the backbone of our OER infrastructure. This is important because...
 
-The first OER Textbook that was created was a Sci-Fi and Fantasy Anthology that came about 
+The first OER Textbook that was created was a Sci-Fi and Fantasy Anthology that came about .....  When students go to the text they can be presented with additional media objects, even existing scholarship that can help them get started in their research. 
 
+From this pilot our Pressbooks install grew via demand from our cybersecuirty and health sciences program as well as political sicences and of course our 200 level library research class. 
 
-We always ask ouselves what problem are we trying to solve?  And there are many problems, for instance, when a faculty member saw herself teaching a survey literature course on Sci-Fi and Fantasy genre she was disatisfied with the existing anthologies which did not feature very many women or people of color.
+This spring we will be facilitating a FEW around OER and Open Pedagogy and we hope that this will be an avenue to further develop our collective skills in ...
+___
 
 PPT Slide 2
 
 Notes:  The solution in a Nutshell
+___
 
 PPT Slide 3
 
 Notes: Understanding Copyright and Creative Commons in a Nutshell
+___
 
 PPT Slide 4
 
 Notes: Information Literacy has Value
 
+
+
+___
 
 # Works Cited
 
