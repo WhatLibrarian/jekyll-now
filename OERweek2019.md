@@ -26,12 +26,14 @@ The first OER Textbook that was created was a Sci-Fi and Fantasy Anthology that 
 
 From this pilot our Pressbooks install grew via demand from our cybersecuirty and health sciences program as well as political sicences and of course our 200 level library research class. 
 
-This spring we will be facilitating a FEW around OER and Open Pedagogy and we hope that this will be an avenue to further develop our collective skills in ...
 ___
 
 PPT Slide 2
 
-Notes:  The solution in a Nutshell
+Project Management
+- Faculty
+- Editors
+- What are the limits of support in a 1 person operation
 ___
 
 PPT Slide 3
@@ -43,7 +45,13 @@ PPT Slide 4
 
 Notes: Information Literacy has Value
 
-[Floe Project](https://floeproject.org/)
+This spring we will be facilitating a FEW around OER and Open Pedagogy and we hope that this will be an avenue to further develop our collective skills in ...
+
+___
+## Resources Mentioned
+
+- [Pressbooks](https://pressbooks.org/) and [WordPress Multisite](https://codex.wordpress.org/Create_A_Network)
+- [Floe Project](https://floeproject.org/) **Accessible** Flexible Learning for Open Education 
 
 
 ___
