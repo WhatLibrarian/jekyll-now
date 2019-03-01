@@ -43,6 +43,7 @@ PPT Slide 4
 
 Notes: Information Literacy has Value
 
+[Floe Project](https://floeproject.org/)
 
 
 ___
