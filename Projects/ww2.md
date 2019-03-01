@@ -153,3 +153,5 @@ About the CFR: The mission of this service is to establish a culture of shared u
 Embedded in each library, archive, or department, Copyright First Responders will develop information expertise, create a collaborative network of support among their peers involved with copyright issues, both locally and across the library, and serve as a resource for the Harvard community by answering copyright questions and sharing critical knowledge.
 
 ___
+
+Image above used with Creative Commons license.  Original image can be found, here.
