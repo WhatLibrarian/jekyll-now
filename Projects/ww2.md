@@ -30,6 +30,9 @@ Myths about Copyright
 The distinction between what is fair use and what is infringement in a particular case will not always be clear or easily defined. There is no specific number of words, lines, or notes that may safely be taken without permission. Acknowledging the source of the copyrighted material does not substitute for obtaining permission,
 
 “Use fairly. Not too much. Have reasons.”
+__
+![[Fair Use Cartoon, History of](http://www.jrocheworkshop.com/2184125-the-origin-of-u-s-fair-use)](
+
 
 ___
 # Harvard Fair Use
