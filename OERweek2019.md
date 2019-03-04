@@ -32,26 +32,22 @@ From this pilot our Pressbooks install grew via demand from our cybersecuirty an
 
 ___
 
-PPT Slide 2
+## Things I Learned
 
 Project Management
-- Faculty
-- Editors
 - What are the limits of support in a 1 person operation
+- Notes: Understanding Copyright and Creative Commons in a Nutshell
+- Accessibility 
 ___
 
-PPT Slide 3
+## Immediate Future
 
-Notes: Understanding Copyright and Creative Commons in a Nutshell
-___
+### Information Literacy has Value
 
-PPT Slide 4
-
-Notes: Information Literacy has Value
-
-This spring we will be facilitating a FEW around OER and Open Pedagogy and we hope that this will be an avenue to further develop our collective skills in ...
+This spring we will be facilitating a "Faculty Education Workshop" around OER and Open Pedagogy and we hope that this will be an avenue to further develop our collective skills in ...
 
 ___
+
 ## Resources Mentioned
 
 - [Pressbooks](https://pressbooks.org/) and [WordPress Multisite](https://codex.wordpress.org/Create_A_Network)
