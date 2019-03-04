@@ -12,17 +12,19 @@ Time: Mar 8, 2019 1:00 - 2:00 PM  [Zoom Meeting](https://zoom.us/j/111107245)
 
 ___
 
-PPT Slide 1
-
-Notes: The Problem in a Nutshell
+## Title Slide
 
 The CCCOER says that "Open education is an attitude, a practice, and a method of teaching that inspires inquiry, equal access to course materials, and sharing lessons and materials with the wider community. At the center of open education is the belief that education is strengthened when shared openly. Open education relies on open educational resources (OER) and open licensing."  At WCC we seen OER evolve from grant developed 1-time resources to a growing culture of curating, sharing and updating materials. 
+
+## Slide 2 PressBooks
 
 We've built this culture through the deliberate and purposeful use of open source software so that the work we do can also be as technically open and interoperatible as possible.  
 
 Despite our size as a small (2500 FTE) rural college we've been able to leverage the collective power of this large community driven open software projects to be the backbone of our OER infrastructure. This is important because...
 
-The first OER Textbook that was created was a Sci-Fi and Fantasy Anthology that came about due to challenges the Faculty instructor had in locating exisiting anthologies that adequately reflected the diversity of writers in the genres. 
+Pressbooks is a Multisite WordPress install with a book pubication overlay. 
+
+The first OER Textbook that was piloted was a Sci-Fi and Fantasy Anthology that came about due to challenges the Faculty instructor had in locating exisiting anthologies that adequately reflected the diversity of writers in the genres. 
 
 When students go to the text they can be presented with additional media objects, even existing scholarship that can help them get started in their research. 
 
