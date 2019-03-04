@@ -15,6 +15,7 @@ ___
 ## Title Slide
 
 The CCCOER says that "Open education is an attitude, a practice, and a method of teaching that inspires inquiry, equal access to course materials, and sharing lessons and materials with the wider community. At the center of open education is the belief that education is strengthened when shared openly. Open education relies on open educational resources (OER) and open licensing."  At WCC we seen OER evolve from grant developed 1-time resources to a growing culture of curating, sharing and updating materials. 
+___
 
 ## Slide 2 PressBooks
 
