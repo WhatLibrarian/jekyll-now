@@ -44,6 +44,7 @@ Sharing supports the idea that the majority of learning occurs outside the class
 
 Share to Canvas Commons and OER Commons.
 If publisher has intake form, submission on form (stewardship)
+[Resources](https://libguides.uta.edu/oer/creation)
 
 ## Create (H5P or Pressbooks)
 Reusable pieces in H5P (anciliary, auxiliary).  Share to Commons, tie to original resource.
