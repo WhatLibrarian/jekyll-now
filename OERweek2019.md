@@ -16,42 +16,58 @@ ___
 
 The Community College Consortium for OER proclaims that "Open education is an attitude, a practice, and a method of teaching that inspires inquiry, equal access to course materials, and sharing lessons and materials with the wider community. At the center of open education is the belief that education is strengthened when shared openly. Open education relies on OER and open licensing."  
 
-Here at Whatcom Community College we've seen OER evolve from grant developed one-time resources to a growing culture of curating, sharing and updating materials. 
+## Slide 2 Sharing is Caring
+
+Here at Whatcom Community College we've seen OER evolve from grant developed one-time resources to a growing culture of curating, sharing and updating materials. The SBCTC was instrumental in this culture shift through the initial creation of the Open Course Library. As a faculty librarian in this project I also saw how challenges around the technical operability of the materials was an obstacle to downstream use though CMS lock-in and how much work was required to move the materials to a different vendor so that they were more easily accessed on the open web.
 ___
 
-## Slide 2 PressBooks
+## Slide 3 Pressbooks
 
-One way that we've built this culture was through the deliberate and purposeful use of open source software so that the work we do can also be as technically open and interoperatible as possible.  
+One way that we at WCC are building our institutional OER culture is through the deliberate and purposeful use of open source software and open standards so that the work we do can also be as technically open and interoperatible as possible.  
 
-Despite our size as a small (2500 FTE) rural college we've been able to leverage the collective power of this large community driven open software projects to be the backbone of our OER infrastructure. This is important because...
+Despite our size as a small, 2500 FTE, rural college we've been able to leverage the collective power of large community driven open software projects to be the backbone of our OER infrastructure. 
 
-Pressbooks is a Multisite WordPress install with a book pubication overlay. 
+This is important because...
+
+## Slide 4 Pb Con't.
+
+Pressbooks is a Multisite WordPress install with a book pubication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu.
+
+## Slide 5 Common Uses
+
+We also choose this software in part of the flexibility it has to work seemlessly with other open source projects and for the potential it gave us to our current and future library publishing needs.
 ___
 
-## Slide 3 Anthologies
+## Slide 6 Anthologies
 
-The first OER Textbook that was piloted was a Sci-Fi and Fantasy Anthology that came about due to challenges the Faculty instructor had in locating exisiting anthologies that adequately reflected the diversity of writers in these genres. 
+The first OER Textbook that was piloted was a Science-Fiction and Fantasy Anthology that came about due to challenges the english instructor had in locating exisiting anthologies that adequately reflected the diversity of writers and voices in these genres. 
 
-During this collaboration process, licensed library resources (such as entire short stories and scholarly material) were added to provide additional pedagogical resources for the literature students. 
+During this collaboration process we identified stories and authors, including many in the public domain that we were able to incorporate wholly into our text.
+
+We also included licensed library resources (such as entire short stories and scholarly materials) that were added to provide access to, and  additional pedagogical resources for, the students. 
+
+Multimedia was also incorporated (such as audio versions of public domain works).
+
+## Slide 7 Open Textbook Collection
 
 From this pilot our Pressbooks install grew via demand from our cybersecuirty and health sciences programs as well as political sciences and naturally, our 200 level library research class. 
 
-## Slides 4 & 5 in quick succession
+## Slide 8 Things I Learned
+
+During this process I has a strong learning curve when it came to textbook collaborations.  If you are thinking about engaging with this type of collaboration there are a couple of key points and questions to consider such as:
+- What are the limits of support in a 1 person operation?
+- A firm grasp on copyright and creative commons licenses is a neccesity.  There is a Creative Commons Certificate I would recommend if you are not already immersed in this work.
+- Knowledge of accessibility is also a requirement.
 
 ___
 
-## Things I Learned
+## Slide 9: Immediate Future "Information Literacy has Value"
 
-If you are thinking about engaging with this type of collaboration there are a couple of key points that I've learned that became apparent duing this process. 
-- What are the limits of support in a 1 person operation
-- Having a firm grasp on copyright and creative commons licenses
-- Knowledge of accessibility 
-___
+Open Education has an exciting future on the web, I'm currently exploring open annotations with the Hypothis.is Project as well as accessible interactive native html5 elements with H5p.com.  Both of these projects are also supported on the Pressbooks platform (as well as other CMS/LMS).
 
-## Slide 6: Immediate Future "Information Literacy has Value"
+This spring I will be facilitating a "Faculty Education Workshop" around OER and Open Pedagogy and I hope that this will be an avenue to further develop our collective skills in faculty library OER collaborations.
 
-This spring we will be facilitating a "Faculty Education Workshop" around OER and Open Pedagogy and we hope that this will be an avenue to further develop our collective skills in faculty library OER collaborations.
-
+On a final note, I learned this week that the entire state of Wisconsin now can write books on the Pressbooks network through their public libraries.  How amazing is that.
 ___
 
 ## Resources Mentioned
