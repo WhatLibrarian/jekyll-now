@@ -15,6 +15,7 @@ ___
 ## Title Slide
 
 The Community College Consortium for OER proclaims that "Open education is an attitude, a practice, and a method of teaching that inspires inquiry, equal access to course materials, and sharing lessons and materials with the wider community. At the center of open education is the belief that education is strengthened when shared openly. Open education relies on OER and open licensing."  
+___
 
 ## Slide 2 Sharing is Caring
 
@@ -28,10 +29,12 @@ One way that we at WCC are building our institutional OER culture is through the
 Despite our size as a small, 2500 FTE, rural college we've been able to leverage the collective power of large community driven open software projects to be the backbone of our OER infrastructure. 
 
 This is important because...
+___
 
 ## Slide 4 Pb Con't.
 
 Pressbooks is a Multisite WordPress install with a book pubication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu.
+___
 
 ## Slide 5 Common Uses
 
@@ -47,10 +50,12 @@ During this collaboration process we identified stories and authors, including m
 We also included licensed library resources (such as entire short stories and scholarly materials) that were added to provide access to, and  additional pedagogical resources for, the students. 
 
 Multimedia was also incorporated (such as audio versions of public domain works).
+___
 
 ## Slide 7 Open Textbook Collection
 
 From this pilot our Pressbooks install grew via demand from our cybersecuirty and health sciences programs as well as political sciences and naturally, our 200 level library research class. 
+___
 
 ## Slide 8 Things I Learned
 
