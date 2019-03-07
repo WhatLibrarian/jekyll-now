@@ -79,6 +79,9 @@ ___
 
 - [Pressbooks](https://pressbooks.org/) and [WordPress Multisite](https://codex.wordpress.org/Create_A_Network)
 - [Floe Project](https://floeproject.org/) **Accessible** Flexible Learning for Open Education 
+- https://www.imsglobal.org/article/evolving-digital-curriculum-based-open-interoperability-standards-part-i
+- http://www.imsglobal.org/article/evolving-digital-curriculum-based-open-interoperability-standards-part-ii
+- https://www.imsglobal.org/article/evolving-digital-curriculum-based-open-interoperability-standards-part-iii
 
 
 ___
