@@ -36,7 +36,7 @@ ___
 ![Fair Use Cartoon]({{site.baseurl}}/Projects/fairuseorigian.PNG)
 
 
-
+https://www.slideshare.net/RachaelSamberg/copyright-fair-use-for-digital-projects-135078587 
 ___
 # Harvard Fair Use
 
