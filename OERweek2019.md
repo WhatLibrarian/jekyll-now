@@ -19,12 +19,12 @@ ___
 
 ## Slide 2 Sharing is Caring
 
-Here at Whatcom Community College we've seen OER evolve from grant developed one-time resources to a growing culture of curating, sharing and updating materials. The SBCTC was instrumental in this culture shift through the initial creation of the Open Course Library. As a faculty librarian in this project I also saw how challenges around the technical operability of the materials was an obstacle to downstream use though CMS lock-in and how much work was required to move the materials to a different vendor so that they were more easily accessed on the open web.
+Here at Whatcom Community College we've seen OER evolve from grant developed one-time resources to a growing culture of curating, sharing and updating materials. The SBCTC was instrumental in this culture shift through the initial creation of the Open Course Library. As a faculty librarian on this project I also saw how challenges around the technical operability of the materials was an obstacle to downstream use though LMS lock-in and how much work was required to move the materials to a different vendor so that they were more easily accessed on the open web.
 ___
 
 ## Slide 3 Pressbooks
 
-One way that we at WCC are building our institutional OER culture is through the deliberate and purposeful use of open source software and open standards so that the work we do can also be as technically open and interoperatible as possible.  
+One way that Whatcom is building our institutional OER culture is through the deliberate and purposeful use of open source software and open standards so that the work we do can also be as technically open and interoperatible as possible.  
 
 Despite our size as a small, 2500 FTE, rural college we've been able to leverage the collective power of large community driven open software projects to be the backbone of our OER infrastructure. 
 
@@ -33,12 +33,12 @@ ___
 
 ## Slide 4 Pb Con't.
 
-Pressbooks is a Multisite WordPress install with a book pubication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu.
+Pressbooks is a Multisite WordPress install with a book publication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu. To manage your own install, some technical skills are required.
 ___
 
 ## Slide 5 Common Uses
 
-We also choose this software in part of the flexibility it has to work seemlessly with other open source projects and for the potential it gave us to our current and future library publishing needs.
+We also choose this software in part because of the flexibility it has to work seemlessly with other open source projects and for the potential it gave us to our current and future library publishing needs. You can see some potential uses on the slide.
 ___
 
 ## Slide 6 Anthologies
@@ -47,20 +47,22 @@ The first OER Textbook that was piloted was a Science-Fiction and Fantasy Anthol
 
 During this collaboration process we identified stories and authors, including many in the public domain that we were able to incorporate wholly into our text.
 
-We also included licensed library resources (such as entire short stories and scholarly materials) that were added to provide access to, and  additional pedagogical resources for, the students. 
+We also included licensed library resources (such as entire short stories and scholarly materials) that were added to provide access to, and  additional pedagogical resources for, the students.  Materials in library databases are also free to the students and are a rich trove of resources.
 
-Multimedia was also incorporated (such as audio versions of public domain works).
+Multimedia was also incorporated (such as audio versions of public domain works)and videos.  Movie trailers are a great way to get students interested in exploring literature through a different medium.
 ___
 
 ## Slide 7 Open Textbook Collection
 
 From this pilot our Pressbooks install grew via demand from our cybersecuirty and health sciences programs as well as political sciences and naturally, our 200 level library research class. 
+
+Government publications that have existed only as pdf's were migrated into html which improves their accessibility.
 ___
 
 ## Slide 8 Things I Learned
 
-During this process I has a strong learning curve when it came to textbook collaborations.  If you are thinking about engaging with this type of collaboration there are a couple of key points and questions to consider such as:
-- What are the limits of support in a 1 person operation?
+During this learning process I had a strong learning curve when it came to textbook collaborations.  If you are thinking about engaging with this type of collaboration there are a couple of key points and questions to consider such as:
+- What are the limits of support in a 1 person operation? (Technical support, training, copy-editing, etc.)
 - A firm grasp on copyright and creative commons licenses is a neccesity.  There is a Creative Commons Certificate I would recommend if you are not already immersed in this work.
 - Knowledge of accessibility is also a requirement.
 
