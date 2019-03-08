@@ -28,7 +28,7 @@ One way that Whatcom is building our institutional OER culture is through the de
 
 Despite our size as a small, 2500 FTE, rural college we've been able to leverage the collective power of large community driven open software projects to be the backbone of our OER infrastructure. 
 
-This is important because...
+The IMS Global Learning Consortium, wrote a piece called “The Importance of Interoperability in Achieving the Potential Advantages of Digital Curriculum” that recognized that interoperability can be a catalyst to reduce costs, increase digital interactivity and learner engagement, and assist in accessibility work.
 ___
 
 ## Slide 4 Pb Con't.
