@@ -26,19 +26,19 @@ ___
 
 One way that Whatcom is building our institutional OER culture is through the deliberate and purposeful use of open source software and open standards so that the work we do can also be as technically open and interoperatible as possible.  
 
-Despite our size as a small, 2500 FTE, rural college we've been able to leverage the collective power of large community driven open software projects to be the backbone of our OER infrastructure. 
+Despite our size as a small, 2500 FTE, rural college we've been able to leverage the collective power of large community driven open software projects (such as WordPress) to be the backbone of our OER infrastructure. 
 
-The IMS Global Learning Consortium, wrote a piece called “The Importance of Interoperability in Achieving the Potential Advantages of Digital Curriculum” that recognized that interoperability can be a catalyst to reduce costs, increase digital interactivity and learner engagement, and assist in accessibility work.
+This foucs is emphasized by the IMS Global Learning Consortium, in a piece called “The Importance of Interoperability in Achieving the Potential Advantages of Digital Curriculum”. Interoperability is recognized as a catalyst to reduce costs, increase digital interactivity and learner engagement, and assist in accessibility work.
 ___
 
 ## Slide 4 Pb Con't.
 
-Pressbooks is a Multisite WordPress install with a book publication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu. To manage your own install, some technical skills are required.
+Pressbooks is a Multisite WordPress install with a book publication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu. Needless to say, to manage your own install, some technical skills are required. Nevertheless, we haven't expereience any major issues in part because we've chosen to keep things vanilla so that when we do need minor assistance we are able to maximize the help we can get from the open source software community.
 ___
 
 ## Slide 5 Common Uses
 
-We also choose this software in part because of the flexibility it has to work seemlessly with other open source projects and for the potential it gave us to our current and future library publishing needs. You can see some potential uses on the slide.
+We also choose this software in part because of the flexibility it has to work seemlessly with other open source projects and for the potential it can give us to our current and future library publishing needs. You can see some potential uses on the slide.
 ___
 
 ## Slide 6 Anthologies
@@ -47,7 +47,7 @@ The first OER Textbook that was piloted was a Science-Fiction and Fantasy Anthol
 
 During this collaboration process we identified stories and authors, including many in the public domain that we were able to incorporate wholly into our text.
 
-We also included licensed library resources (such as entire short stories and scholarly materials) that were added to provide access to, and  additional pedagogical resources for, the students.  Materials in library databases are also free to the students and are a rich trove of resources.
+We also included licensed library resources (such as entire short stories and scholarly materials) that were added to provide access to, and  additional pedagogical resources for, the students.  Materials in library databases are free to the students and are a rich trove of resources.
 
 Multimedia was also incorporated (such as audio versions of public domain works)and videos.  Movie trailers are a great way to get students interested in exploring literature through a different medium.
 ___
