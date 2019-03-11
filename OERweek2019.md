@@ -92,5 +92,30 @@ ___
 
 ___
 
-# Works Cited
-... Coming Soon!
+# Reference Works
+
+Banerjee, K. (2018). How to Incorporate Open Educational Resources (OER) into the Infrastructure and Pedagogy for Promoting Ubiquitous Learning. In Innovations in Open and Flexible Education (pp. 177–184). Singapore: Innovations in Open and Flexible Education.
+
+Cooney, C., Almond, A., Belli, J., & Seto, J. (2018). Building a Culture of Open Pedagogy from the Platform Up. Retrieved from http://resolver.tudelft.nl/uuid:9a2ce6ca-2059-463a-b840-82a3003772b6
+
+Evolving to digital curriculum based on open interoperability standards, Part II | IMS Global Learning Consortium. (n.d.). Retrieved March 8, 2019, from http://www.imsglobal.org/article/evolving-digital-curriculum-based-open-interoperability-standards-part-ii
+
+Getting Started with Pressbooks: A guide for Higher Education use cases. (2017, November 9). Retrieved March 4, 2019, from http://steelwagstaff.info/getting-started-with-pressbooks-a-guide-for-higher-education-use-cases/
+
+Green, K. C. (2015, November 18). OER Issues: Apples, Orchards and Infrastructure | Inside Higher Ed [Inside Higher Ed.]. Retrieved February 26, 2019, from https://www.insidehighered.com/blogs/digital-tweed/oer-issues-apples-orchards-and-infrastructure
+
+Guodong. (2007). From open educational resources to open source software: On the use of OSS in higher education institutions. Distance Education in China, (1), 62–67.
+
+Jones, S. (2018). A Solution to OER Publication Resistance: Using Blockchain Technology to Protect Scholar Copyright. International Journal of Open Educational Resources, 1(1). https://doi.org/doi:10.18278/ijoer.1.1.8
+
+Levin, D. (2018). OER Technology Infrastructure Assessment. EDTech Strategies, LLC: William + Flora Hewlett Foundation. Retrieved from https://hewlett.org/library/oer-technology-infrastructure-assessment/
+Nyland, R. (2018). The Infrastructure of Openness: Results from a Multi-Institutional Survey on OER Platforms. International Journal of Open Educational Resources, 1(1). https://doi.org/10.18278/ijoer.1.1.3
+
+The Value of Open Source Software In Higher Education | Open Source Initiative. (n.d.). Retrieved March 4, 2019, from https://opensource.org/node/969
+
+Why Can’t OER Enjoy the Same Success as Open Source Software? - EdSurge News. (2014, September 3). Retrieved March 7, 2019, from https://www.edsurge.com/news/2014-09-03-opinion-why-can-t-oer-enjoy-the-same-success-as-open-source-software
+
+Wiley, D. (2014, July 15). The Open Education Infrastructure, and Why We Must Build It. Retrieved February 26, 2019, from https://opencontent.org/blog/archives/3410
+
+Wiley, D. (2018, January 29). Reflections on 20 Years of Open Content: Lessons from Open Source [blog]. Retrieved March 4, 2019, from https://opencontent.org/blog/archives/5354
+
