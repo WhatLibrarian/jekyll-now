@@ -34,11 +34,13 @@ ___
 ## Slide 4 Pb Con't.
 
 Pressbooks is a Multisite WordPress install with a book publication overlay.  We host our own on a leased server, but institutions can also pay to have their instance managed for them at pressbooks.edu. Needless to say, to manage your own install, some technical skills are required. Nevertheless, we haven't expereience any major issues in part because we've chosen to keep things vanilla so that when we do need minor assistance we are able to maximize the help we can get from the open source software community.
+
+Books produced can be downloaded in a verity of formats and books can be easily cloned.
 ___
 
 ## Slide 5 Common Uses
 
-We also choose this software in part because of the flexibility it has to work seemlessly with other open source projects and for the potential it can give us to our current and future library publishing needs. You can see some potential uses on the slide.
+We choose this software in part because of the flexibility it has to work seemlessly with additional open source projects and for the potential it can give us for our current and future library publishing needs. You can see some potential uses on the slide.
 ___
 
 ## Slide 6 Anthologies
@@ -72,7 +74,7 @@ ___
 
 Open Education has an exciting future on the web, I'm currently exploring open annotations with the Hypothis.is Project as well as accessible interactive native html5 elements with H5p.com.  Both of these projects are also supported on the Pressbooks platform (as well as other CMS/LMS).
 
-This spring I will be facilitating a "Faculty Education Workshop" around OER and Open Pedagogy and I hope that this will be an avenue to further develop our collective skills in faculty library OER collaborations.
+This spring I will be facilitating a "Faculty Education Workshop" around OER and Open Pedagogy and I hope that this will be an avenue to further develop WCC's collective skills in OER authorship.
 
 On a final note, I learned this week that the entire state of Wisconsin now can write books on the Pressbooks network through their public libraries.  How amazing is that.
 ___
