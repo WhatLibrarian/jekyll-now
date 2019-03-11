@@ -8,7 +8,9 @@ Time: Mar 8, 2019 1:00 - 2:00 PM  [Zoom Meeting](https://zoom.us/j/111107245)
 
 **Short Description**: With resources lean we have been priveledged to be able to rely on large community run open source projects to meet the pedegogical needs of our instructors enabling them to engage with OER in ways that contribute to greater supporting student success.
 
-![Nutshell](https://www.maxpixel.net/static/photo/1x/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652.jpg)*Photo by [Max Pixel](https://www.maxpixel.net/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652), [Creative Commons Zero - CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).*
+![Nutshell](https://www.maxpixel.net/static/photo/1x/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652.jpg)
+*Photo by [Max Pixel](https://www.maxpixel.net/Brain-Nutshell-Nut-Open-Shell-Coils-Walnut-Head-3072652), [Creative Commons Zero - CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).*
+
 
 ___
 
