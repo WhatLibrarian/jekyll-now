@@ -1,5 +1,7 @@
-# Open Pedagogy & Universal Design
+# Week 3 Open Pedagogy & Universal Design
 
+## Guest Speaker
+___
 ## Activity: Putting a Free License On Your Work
 
 This works best for communicating online as it generally provides the most relevant information for independent retrieval.
