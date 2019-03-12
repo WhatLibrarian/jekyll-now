@@ -86,6 +86,14 @@ Hypothesis can used in an education context to collaboratively annotate course r
 PPT Slides (/)
 
 
-#### Journal Article
+#### Journal Article Homework
 
 Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expand Their Practice: The Case of Open Education Resources.”** *British Journal of Educational Technology*, vol. 48, no. 2, 2017, pp. 499–510. Wiley Online Library, [doi:10.1111/bjet.12438](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12438). [OA PDF]
+
+
+# Works Cited
+
+Grimaldi, P. J., Basu Mallick, D., Waters, A. E., & Baraniuk, R. G. (2019). Do open educational resources improve student learning? Implications of the access hypothesis. PLOS ONE, 14(3), e0212508. https://doi.org/10.1371/journal.pone.0212508
+
+
+ 
