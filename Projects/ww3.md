@@ -1,4 +1,5 @@
 # Week 3 Open Pedagogy & Universal Design
+___
 
 ## Guest Speaker
 ___
@@ -24,6 +25,7 @@ Citation: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Educ
 
 ## Wrap Up
 OER Stewardship
+![OER Stewards](https://careframeworkorg.files.wordpress.com/2018/03/sustainableoer-graphic-01.png)
 Game: Cards Against Humanity
 
 ### Additional Resources
