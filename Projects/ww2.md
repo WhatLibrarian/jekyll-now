@@ -12,7 +12,7 @@ Always question: What is the pedagogical purpose of this item? How will it be us
 
 
 
-[Video "Why Open Education Matters"](https://www.youtube.com/watch?time_continue=82&v=gJWbVt2Nc-I_)
+![youtube video[Video "Why Open Education Matters"](https://www.youtube.com/watch?time_continue=82&v=gJWbVt2Nc-I_)](
 
 
 #### Myths about Copyright 
@@ -144,4 +144,3 @@ Apply fair use prudently, and manage risk sensibly.
 ## FURTHER QUESTIONS OR GUIDANCE? Ask your Copyright Librarian.
 
 About Copyright Services @ WCC: "The mission of this service is to establish a culture of shared understanding of copyright among WCC faculty, students, and staff in support of pedagogy, research, and innovation."
-
