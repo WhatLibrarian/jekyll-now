@@ -1,11 +1,11 @@
 # Week 2 Outline
 
 # Into the Weeds
-
+___
 ## Third Party Materials
 
 ### All Rights Reserved
-? What is the pedagogical purpose of this item? How will it be used.
+Always question: What is the pedagogical purpose of this item? How will it be used?
 
 ![copyright_infographic](infographic_copyright.png)
 
@@ -16,14 +16,14 @@
 
 Myths about Copyright 
 (original by Brad Templeton) 
-•	Copying just a little bit is OK. 
-•	Attribution is as good as permission.
-•	It's free advertising. 
-•	I modified it; now it's mine. 
-•	It's OK--it's for educational purposes.
-•	You have to give away all your rights to get published. 
-•	It doesn't say it's copyrighted.
-•	It's on the Web so I can use it without asking.
+- Copying just a little bit is OK. 
+- Attribution is as good as permission.
+- It's free advertising. 
+- I modified it; now it's mine. 
+- It's OK--it's for educational purposes.
+- You have to give away all your rights to get published. 
+- It doesn't say it's copyrighted.
+- It's on the Web so I can use it without asking.
 
 
 
@@ -38,13 +38,10 @@ ___
 
 https://www.slideshare.net/RachaelSamberg/copyright-fair-use-for-digital-projects-135078587 
 ___
-# Harvard Fair Use
+# Handout
+## Harvard's THE OFFICE FOR SCHOLARLY COMMUNICATION PRESENTS: FAIR USE
 
-THE OFFICE FOR SCHOLARLY COMMUNICATION PRESENTS: FAIR USE
-Made for the Harvard Community
-----
-
-Inspired by the Harvard Office of General Counsel's "Copyright and Fair Use: A Guide for the Harvard Community (http://ogc.harvard.edu/pages/copyright-and-fair-use)
+*Inspired by the Harvard Office of General Counsel's ["Copyright and Fair Use: A Guide for the Harvard Community](http://ogc.harvard.edu/pages/copyright-and-fair-use)*
 
 Fair use provisions of the copyright law allow use of copyrighted materials on a limited basis for specific purposes without requiring the permission of the copyright holder. Below we will detail the current state of the law, including the four factors, transformative uses, and cases for reference.
 
@@ -146,12 +143,7 @@ Fair use is ultimately a balancing test.
 
 Apply fair use prudently, and manage risk sensibly.
 
-VIII. FURTHER QUESTIONS OR GUIDANCE? Ask the Copyright First Responders (CFR)
+VIII. FURTHER QUESTIONS OR GUIDANCE? Ask your Copyright Librarian.
 
-About the CFR: The mission of this service is to establish a culture of shared understanding of copyright among Harvard faculty, students, and staff in support of pedagogy, research, and innovation.
+About Copyright Services at WCC: The mission of this service is to establish a culture of shared understanding of copyright among WCC faculty, students, and staff in support of pedagogy, research, and innovation.
 
-Embedded in each library, archive, or department, Copyright First Responders will develop information expertise, create a collaborative network of support among their peers involved with copyright issues, both locally and across the library, and serve as a resource for the Harvard community by answering copyright questions and sharing critical knowledge.
-
-___
-
-Image above used with Creative Commons license.  Original image can be found, here.
