@@ -26,7 +26,14 @@ Citation: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Educ
 ## Wrap Up
 OER Stewardship
 ![OER Stewards](https://careframeworkorg.files.wordpress.com/2018/03/sustainableoer-graphic-01.png)
-Game: Cards Against Humanity
+	- Open Textbook Library
+    - Merlot
+    - OER Commons 
+
+Game: "Cards Against Librarians"
+
+## Deliverable Reminder
+Due Dates?
 
 ### Additional Resources
 - [The Programming Historian](https://programminghistorian.org/)
