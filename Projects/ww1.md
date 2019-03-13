@@ -1,22 +1,4 @@
-## Land Acknowledgement
-"We acknowledge that this land is the tradtional territory of the Lummi and Nooksack Peoples. their presence is imbued in thoses mountains, valleys, waterways, and shorelines. May we nurture our relationships with our coast Salish neighbors, and the shared responsibilities to their homelands where we are reside today."
-
-![Image ID: fish7476, NOAA's Historic Fisheries Collection Location: Washington, Lummi Island Photo Date: 1895 Photographer: Archival Photographer Stefan Claesson Credit: Gulf of Maine Cod Project, NOAA National Marine Sanctuaries; Courtesy of National Archives ](https://www.photolib.noaa.gov/bigs/fish7476.jpg)
-___
-
-## Welcome/Intro/L.O./Paperwork Reqs for Adjuncts
-
-## Summary: Intro to "Open" and some tools
-
-### FEW Learning Outcomes
-At the end of this Faculty Educational Workshop, participants will be able to:
-- Properly identify the Creative Commons (CC) license on a resource.
-- Effectively search for open resources and post review in an OER repository
-- Create an open resource by remixing multiple existing resources and designate a license to this new resource.
-- Understand accessibility in the realm of Open
-
-# Week 1
-## Intro to Open, Why Open?
+# Week 1  Introduction to Open, Why Open?
 
 **Keywords:** Open Access, Academic Libraries, Publishing, Creative Commons
 
@@ -94,6 +76,3 @@ Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expan
 # Works Cited
 
 Grimaldi, P. J., Basu Mallick, D., Waters, A. E., & Baraniuk, R. G. (2019). Do open educational resources improve student learning? Implications of the access hypothesis. PLOS ONE, 14(3), e0212508. https://doi.org/10.1371/journal.pone.0212508
-
-
- 
