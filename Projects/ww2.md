@@ -144,3 +144,11 @@ Apply fair use prudently, and manage risk sensibly.
 ## FURTHER QUESTIONS OR GUIDANCE? Ask your Copyright Librarian.
 
 About Copyright Services @ WCC: "The mission of this service is to establish a culture of shared understanding of copyright among WCC faculty, students, and staff in support of pedagogy, research, and innovation."
+
+
+
+
+## Searching the Commons
+
+* [CC Search](https://ccsearch.creativecommons.org)
+* [Internet Archive] (https://archive.org)
