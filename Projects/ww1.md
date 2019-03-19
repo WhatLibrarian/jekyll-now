@@ -23,17 +23,24 @@ Sharing supports the idea that the majority of learning occurs outside the class
 
 ## Adopt or Adapt ([Pressbooks](http://textbooks.whatcom.edu) or Canvas)
 
-Share to Canvas Commons and OER Commons.
-If publisher has intake form, submission on form (stewardship)
+* Share to Canvas Commons and OER Commons.
+* If publisher has intake form, submission on form (stewardship)
+
 [Resources](https://libguides.uta.edu/oer/creation)
 
-## Create (H5P or Pressbooks)
-Reusable pieces in H5P (anciliary, auxiliary).  Share to Commons, tie to original resource.
+## Create (Learning Objects with [H5P](https://h5p.org))
+Reusable pieces in H5P (anciliary, auxiliary).  Share to Commons, tie to original resource
+* Student will not need to install any software to use the learning object.
+* Sharing is easy
+* Most content types are WCAG 2.0 AA
 
-## Engage (Reading Annotations via Hypothesis)
+* Share to Canvas Commons and OER Commons
+
+## Engage (Reading Annotations via [Hypothesis](https://web.hypothes.is/))
 - Reading Apprenticeships
 - Scholarly Conversations
-[Hypothesis Video](https://www.youtube.com/watch?v=QCkm0lL-6lc) A little *starry eyed* but gets to an importance.  
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QCkm0lL-6lc/0.jpg)](https://www.youtube.com/watch?v=QCkm0lL-6lc) A little *starry eyed* but gets to an importance.  
 
 Yes, you can group annotate in Canvas, but this will allow students to learn annotation skills and give them an introduction to an open scholarly communication tool that they can use in their professional lives.
 
