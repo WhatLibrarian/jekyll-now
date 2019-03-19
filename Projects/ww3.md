@@ -36,6 +36,7 @@ Game: "Cards Against Librarians"
 Due Dates?
 
 ### Additional Resources
+-[Building Open Infrastructure at CUNY](https://cuny.manifoldapp.org/read/untitled-84d43a1f-0a80-4404-ad34-448a687f9d49/section/ddfef264-cc13-4636-9773-8565b5742a59)
 - [Teach Access Portal](https://teachaccess.github.io/tutorial/#/0)
 - [The Programming Historian](https://programminghistorian.org/)
 - [The Open Faculty Patchbook - A Community Quilt of Pedagogy](https://facultypatchbook.pressbooks.com/)
