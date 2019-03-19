@@ -77,7 +77,7 @@ PPT Slides (/)
 
 #### Journal Article Homework
 
-Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expand Their Practice: The Case of Open Education Resources.”** *British Journal of Educational Technology*, vol. 48, no. 2, 2017, pp. 499–510. Wiley Online Library, [doi:10.1111/bjet.12438](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12438). [OA PDF]
+Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expand Their Practice: The Case of Open Education Resources.”** *British Journal of Educational Technology*, vol. 48, no. 2, 2017, pp. 499–510. Wiley Online Library, [doi:10.1111/bjet.12438](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12438).
 
 
 # Works Cited
