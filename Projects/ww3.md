@@ -36,5 +36,6 @@ Game: "Cards Against Librarians"
 Due Dates?
 
 ### Additional Resources
+- [Teach Access Portal](https://teachaccess.github.io/tutorial/#/0)
 - [The Programming Historian](https://programminghistorian.org/)
 - [The Open Faculty Patchbook - A Community Quilt of Pedagogy](https://facultypatchbook.pressbooks.com/)
