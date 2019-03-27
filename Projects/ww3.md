@@ -31,6 +31,7 @@ OER Stewardship
     - OER Commons 
 
 ![image]({{site.baseurl}}/Projects/twitimage2.PNG)
+https://twitter.com/maeverawr/status/1110927807826350080
 
 
 ## Deliverable Reminder
