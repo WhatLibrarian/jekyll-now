@@ -30,7 +30,8 @@ OER Stewardship
     - Merlot
     - OER Commons 
 
-Game: "Cards Against Librarians"
+![image]({{site.baseurl}}/Projects/twitimage2.PNG)
+
 
 ## Deliverable Reminder
 Due Dates?
