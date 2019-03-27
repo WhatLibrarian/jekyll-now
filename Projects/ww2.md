@@ -153,3 +153,4 @@ About Copyright Services @ WCC: "The mission of this service is to establish a c
 * [CC Search](https://ccsearch.creativecommons.org)
 * [Internet Archive] (https://archive.org)
 * OASIS
+[https://courses.lumenlearning.com/catalog/achievingthedream]
