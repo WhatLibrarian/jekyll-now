@@ -83,3 +83,6 @@ Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expan
 # Works Cited
 
 Grimaldi, P. J., Basu Mallick, D., Waters, A. E., & Baraniuk, R. G. (2019). Do open educational resources improve student learning? Implications of the access hypothesis. PLOS ONE, 14(3), e0212508. https://doi.org/10.1371/journal.pone.0212508
+
+
+<iframe src='https://www.rcampus.com/rubricshowc.cfm?code=L9WC6X&sp=yes&mode=framed' width='600' height='500'><noframe><a href='https://www.rcampus.com/rubricshowc.cfm?code=L9WC6X&sp=yes'>Rubric: Evaluating OER</a></noframe></iframe>
