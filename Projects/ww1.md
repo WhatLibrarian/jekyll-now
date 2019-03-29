@@ -9,12 +9,16 @@
 
 #### Why are we here? Value Proposition
 "a site of praxis, a place where theories about learning, teaching, technology, and social justice enter into a conversation with each other and inform the development of educational practices and structures."
-- Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with open pedagogy."](http://openpedagogy.org/open-pedagogy/) In the "What is Open Pedagogy" section.
+Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with open pedagogy."](http://openpedagogy.org/open-pedagogy/) In the "What is Open Pedagogy" section.
 
-Introduce the concept of “Open” and discuss the concept of Open as it applies more broadly to research, technology, government, art and education.
+## Powerpoint Presentation
 
+### Activity Questions to Consider
 
-![WhyOpenSteel.PNG]({{site.baseurl}}/Projects/WhyOpenSteel.PNG)
+1. What do you like about your current textbook? What are the necessities for your students? In other words, what can you not give up? 
+2. What do you dislike about your current textbook? List everything that you do not like. Let’s assume that if you came to hear about open textbooks and other OER that you do not like the cost of a textbook. What else? 
+From [Alyson Indrunas](https://spokeandhub.wordpress.com/2017/03/25/adapt-adopt-build-hospitality-oer/) 
+
 
 
 # Final Project Options (non-exclusive)
@@ -48,7 +52,6 @@ Example Uses in the classroom
 
 Hypothesis can used in an education context to collaboratively annotate course readings and other internet resources.  Below is a list created by Hypothes.is providing ten suggestions on how the tools could be used in the classroom:
 
-
 * Teacher Annotations
  * Pre-populate a text with questions fro students to reply to in annotations or notes elucidating important points as they read.
 * Annotation as Gloss
@@ -72,7 +75,6 @@ Hypothesis can used in an education context to collaboratively annotate course r
 
 [You can read the full article here.](https://web.hypothes.is/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/)
 
-PPT Slides (/)
 
 
 #### Journal Article Homework
