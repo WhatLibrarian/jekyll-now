@@ -11,7 +11,13 @@
 "a site of praxis, a place where theories about learning, teaching, technology, and social justice enter into a conversation with each other and inform the development of educational practices and structures."
 Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with open pedagogy."](http://openpedagogy.org/open-pedagogy/) In the "What is Open Pedagogy" section.
 
+https://www.oeconsortium.org/info-center/topic/introduction-to-oer/ 
+
+
 ## Powerpoint Presentation
+
+## Videos
+- [https://www.youtube.com/watch?v=ZFeyCc6we-s] OER (Open Educational Resources) Introduction
 
 ### Activity Questions to Consider
 
