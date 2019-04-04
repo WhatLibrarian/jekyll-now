@@ -18,6 +18,7 @@ https://www.oeconsortium.org/info-center/topic/introduction-to-oer/
 
 ### Lecture Points
 - "The internet provides vast amounts of OER for use and reuse. This may be text, video, graphics or audio and is free of charge. It's usually produced by educational institutions and published onliine to thte general public for their immediate use or repurposing according to the users' needs." (p. 9.  H800 "an Introduction to OER" The Open University.
+-- First two point of Open definition by Wiley (https://prose.io/#WhatLibrarian/WhatLibrarian.github.io/blob/master/Open%20Content%20Org%20-%20Definition.md)
 
 ## Videos
 - [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s)
