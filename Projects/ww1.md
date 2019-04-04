@@ -24,6 +24,12 @@ https://www.oeconsortium.org/info-center/topic/introduction-to-oer/
 - [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s)
 - [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g)
 - [Why Open Education Matters](https://www.youtube.com/watch?v=cHQp33rbg5k)
+- [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
+
+
+![2016FloridaChart1]({{site.baseurl}}/Projects/infographic-feb2017-infocus-1024x497.png)
+
+
 ### Activity Questions to Consider
 
 1. What do you like about your current textbook? What are the necessities for your students? In other words, what can you not give up? 
