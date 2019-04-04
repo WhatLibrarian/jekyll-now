@@ -25,9 +25,54 @@ https://www.oeconsortium.org/info-center/topic/introduction-to-oer/
 - [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g)
 - [Why Open Education Matters](https://www.youtube.com/watch?v=cHQp33rbg5k)
 - [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
+- [Faculty perspective - transition to accessibility](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
 
 
 ![2016FloridaChart1]({{site.baseurl}}/Projects/infographic-feb2017-infocus-1024x497.png)
+
+
+## Introduction to Open Educational Resources (OER)
+
+The following video offers a very brief introduction to OER. 
+
+ 
+### What is OER?
+
+Open educational resources are educational materials and resources offered freely and openly for anyone and available under a license that allows users to use, remix, improve and redistribute. Sharing ideas and resources and collaborating on projects as part of a community is key to the Open Education movement.
+
+ 
+### What can you do with OER?
+
+Teachers bring OER to life. Open educational resources are innovative not just because they are free, but because of how teachers adopt and creatively adapt them, bringing them to life in the classroom in order to reach every student.
+
+    Retain - the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
+    Reuse - the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+    Revise - the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+    Remix - the right to combine the original or revised content with other material to create something new (e.g., incorporate the content into a mashup)
+    Redistribute - the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
+
+"The 5 R's" from Defining the "Open" in Open Content and Open Educational ResourcesLinks to an external site. by David Wiley, published in his blog opencontent.orgLinks to an external site., licensed under a CC BY license. 
+
+ 
+### What are the benefits of creating and using Open Educational Resources?
+
+#### OER offer financial and pedagogical benefits. 
+
+    improving student performance and satisfaction
+    increasing access to educational materials for a wider range of learners, including those underserved by traditional educational opportunities
+    giving instructors the flexibility to customize materials specifically for their students' needs
+    encouraging educators to engage in critical reflection of educational resources
+    helping students, districts, and educational institutions save money
+
+The following videos describe some of the benefits of OER.
+
+Learn more about current research on the impact of OER at the OER Research Hub websiteLinks to an external site.. 
+
+ 
+OER is any material with an open license used for teaching or learning
+
+That means activities, curriculum, lesson or unit plans, professional development, textbooks, stories, tools, videos, wiki, full courses, podcasts, a syllabus... and more!
+
 
 
 ### Activity Questions to Consider
