@@ -14,11 +14,15 @@ Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with
 https://www.oeconsortium.org/info-center/topic/introduction-to-oer/ 
 
 
-## Powerpoint Presentation
+
+
+### Lecture Points
+- "The internet provides vast amounts of OER for use and reuse. This may be text, video, graphics or audio and is free of charge. It's usually produced by educational institutions and published onliine to thte general public for their immediate use or repurposing according to the users' needs." (p. 9.  H800 "an Introduction to OER" The Open University.
 
 ## Videos
-- [https://www.youtube.com/watch?v=ZFeyCc6we-s] OER (Open Educational Resources) Introduction
-
+- [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s)
+- [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g)
+- [Why Open Education Matters](https://www.youtube.com/watch?v=cHQp33rbg5k)
 ### Activity Questions to Consider
 
 1. What do you like about your current textbook? What are the necessities for your students? In other words, what can you not give up? 
