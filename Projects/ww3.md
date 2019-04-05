@@ -23,6 +23,12 @@ Citation: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Educ
 
 [Slides](https://speakerdeck.com/actualham/introduction-to-open-pedagogy)
 
+
+## Fair Use Tips
+Ask yourself
+1. What is the pedagogical purpose of this item?
+2. How will it be used?
+
 ## Wrap Up
 OER Stewardship
 ![OER Stewards](https://careframeworkorg.files.wordpress.com/2018/03/sustainableoer-graphic-01.png)
