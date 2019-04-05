@@ -102,6 +102,7 @@ Reusable pieces in H5P (anciliary, auxiliary).  Share to Commons, tie to origina
 * Most content types are WCAG 2.0 AA
 
 * Share to Canvas Commons and OER Commons
+[floe project - Additional recommended resource](https://floeproject.org)
 
 ## Engage (Reading Annotations via [Hypothesis](https://web.hypothes.is/))
 - Reading Apprenticeships
