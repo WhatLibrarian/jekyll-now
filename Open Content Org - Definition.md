@@ -1,7 +1,7 @@
 
 # Defining the "Open" in Open Content and Open Educational Resources
 
-The terms "open content" and "open educational resources" describe any copyrightable work (traditionally excluding software, which is described by other terms like "open source") that is either (1) in the public domain or (2) licensed in a manner that provides users with free and perpetual permission to engage in the 5R activities:
+The terms "open content" and "open educational resources" describe any copyrightable work that is either (1) in the public domain or (2) licensed in a manner that provides users with free and perpetual permission to engage in the 5R activities:
 
 - Retain - the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
 - Reuse - the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
