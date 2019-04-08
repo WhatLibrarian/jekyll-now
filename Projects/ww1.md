@@ -2,23 +2,33 @@
 
 **Keywords:** Open Access, Academic Libraries, Publishing, Creative Commons
 
-### Module 1 Learning Objectives
+## Land Acknowledgement
+"We acknowledge that this land is the traditional teritory of the Lummi and Nooksack Peooples. Their presence is imbued in these mountains, valleys, waterways, and shorelines. May we nurture our relationship with our Coast Salish neighbors, and the shared responsibilities to their homeland where we all reside today."
+
+## Value Proposition: Why are we here? 
+Intent of this FEW is that we are in "...a site of praxis, a place where theories about learning, teaching, technology, and social justice enter into a conversation with each other and inform the development of educational practices and structures."
+(Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with open pedagogy."](http://openpedagogy.org/open-pedagogy/) In the "What is Open Pedagogy" section.)
+
+
+### Classroom Introductions
+
+## Module 1 Learning Objectives
 - Understand Open
 - Ingest the 5 R's of Open
 - Begin deciding on OER FEW Project
 
-#### Why are we here? Value Proposition
-"a site of praxis, a place where theories about learning, teaching, technology, and social justice enter into a conversation with each other and inform the development of educational practices and structures."
-Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with open pedagogy."](http://openpedagogy.org/open-pedagogy/) In the "What is Open Pedagogy" section.
-
-https://www.oeconsortium.org/info-center/topic/introduction-to-oer/ 
 
 
+### Defining the "Open" in Open Content and Open Educational Resources
 
+The terms "open content" and "open educational resources" describe any copyrightable work that is either (1) in the public domain or (2) licensed in a manner that provides users with free and perpetual permission to engage in the 5R activities:
 
-### Lecture Points
-- "The internet provides vast amounts of OER for use and reuse. This may be text, video, graphics or audio and is free of charge. It's usually produced by educational institutions and published onliine to thte general public for their immediate use or repurposing according to the users' needs." (p. 9.  H800 "an Introduction to OER" The Open University.
--- First two point of Open definition by Wiley (https://prose.io/#WhatLibrarian/WhatLibrarian.github.io/blob/master/Open%20Content%20Org%20-%20Definition.md)
+- Retain - the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
+- Reuse - the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
+- Revise - the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
+- Remix - the right to combine the original or revised content with other material to create something new (e.g., incorporate the content into a mashup)
+- Redistribute - the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
+- - [David Wiley's definition](http://opencontent.org/definition/)
 
 ## Videos
 - [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s)
