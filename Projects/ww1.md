@@ -17,7 +17,9 @@ Intent of this FEW is that we are in "...a site of praxis, a place where theorie
 - Ingest the 5 R's of Open
 - Begin deciding on OER FEW Project
 
-
+Video Intro: A bit 'pie in the sky' but exposes some of the idealism behind the movement:
+* [Why Open Education Matters](https://www.youtube.com/watch?v=cHQp33rbg5k) [2:49]
+* Note the potential for colonialism, obsticles to accredidation, assumption of internet reliability and availability, ect.
 
 ### Defining the "Open" in Open Content and Open Educational Resources
 
@@ -31,9 +33,9 @@ The terms "open content" and "open educational resources" describe any copyright
 - - [David Wiley's definition](http://opencontent.org/definition/)
 
 ## Videos
-- [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s)
-- [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g)
-- [Why Open Education Matters](https://www.youtube.com/watch?v=cHQp33rbg5k)
+- [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s) [2:22 min]
+- [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g) [2:09]
+
 - [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
 - [Faculty perspective - transition to accessibility](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
 
@@ -120,7 +122,7 @@ Reusable pieces in H5P (anciliary, auxiliary).  Share to Commons, tie to origina
 ### Video 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/QCkm0lL-6lc/0.jpg)](https://www.youtube.com/watch?v=QCkm0lL-6lc) A little *starry eyed* but gets to an importance.  
 
-Yes, you can group annotate in Canvas, but this will allow students to learn annotation skills and give them an introduction to an open scholarly communication tool that they can use in their professional lives.
+Yes, you can group annotate in Canvas, however, this will allow students to learn annotation skills and give them an introduction to an open scholarly communication tool that they can use in their professional lives.
 
 Example Uses in the classroom
 
@@ -159,6 +161,3 @@ Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expan
 # Works Cited
 
 Grimaldi, P. J., Basu Mallick, D., Waters, A. E., & Baraniuk, R. G. (2019). Do open educational resources improve student learning? Implications of the access hypothesis. PLOS ONE, 14(3), e0212508. https://doi.org/10.1371/journal.pone.0212508
-
-
-<iframe src='https://www.rcampus.com/rubricshowc.cfm?code=L9WC6X&sp=yes&mode=framed' width='600' height='500'><noframe><a href='https://www.rcampus.com/rubricshowc.cfm?code=L9WC6X&sp=yes'>Rubric: Evaluating OER</a></noframe></iframe>
