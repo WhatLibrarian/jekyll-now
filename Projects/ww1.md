@@ -38,7 +38,7 @@ The terms "open content" and "open educational resources" describe any copyright
 
 - [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
 - [Faculty perspective - transition to accessibility](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
-
+Week 2 vid: (https://www.youtube.com/watch?v=gJWbVt2Nc-I) 
 
 ![2016FloridaChart1]({{site.baseurl}}/Projects/infographic-feb2017-infocus-1024x497.png)
 
