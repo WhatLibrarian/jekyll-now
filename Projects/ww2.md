@@ -15,6 +15,19 @@ Always question: What is the pedagogical purpose of this item? How will it be us
 
 
 ![youtube video[Video "Why Open Education Matters"](https://www.youtube.com/watch?time_continue=82&v=gJWbVt2Nc-I_)](
+Outline
+
+Welcome
+1.	Copyright
+a.	Rights Reserved 
+b.	History and Growth
+c.	Fair Use Exemptions (Education)
+i.	“again today we have a federal court making it clear that fair use is not just a carve-out of the copyright system but a right on the same level of those described in the rest of the statute”
+d.	Differences between in-person/digital
+2.	Things you can use [infograph]
+a.	Open Licensed material
+b.	Public Domain
+c.	Fed Docs
 
 
 #### Myths about Copyright 
