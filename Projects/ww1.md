@@ -12,10 +12,13 @@ Intent of this FEW is that we are in "...a site of praxis, a place where theorie
 ## Classroom Introductions
 ___
 # Week 1  Introduction to Open, Why Open?
+___
 ## Module 1 Learning Objectives
 - Understand Open
 - Ingest the 5 R's of Open
 - Begin deciding on OER FEW Project
+
+**[PPT Slides](https://1drv.ms/p/s!Ag8eizeb-0eygodKJkEJ4yzESnDhRQ)**
 
 ### Defining the "Open" in Open Content and Open Educational Resources
 
