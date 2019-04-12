@@ -17,9 +17,7 @@ Intent of this FEW is that we are in "...a site of praxis, a place where theorie
 - Ingest the 5 R's of Open
 - Begin deciding on OER FEW Project
 
-Video Intro: A bit 'pie in the sky' but exposes some of the idealism behind the movement:
-* [Why Open Education Matters](https://www.youtube.com/watch?v=cHQp33rbg5k) [2:49]
-* Note the potential for colonialism, obsticles to accredidation, assumption of internet reliability and availability, ect.
+
 
 ### Defining the "Open" in Open Content and Open Educational Resources
 
@@ -32,13 +30,9 @@ The terms "open content" and "open educational resources" describe any copyright
 - Redistribute - the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
 - - [David Wiley's definition](http://opencontent.org/definition/)
 
-## Videos
-- [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s) [2:22 min]
-- [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g) [2:09]
 
-- [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
-- [Faculty perspective - transition to accessibility](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
-Week 2 vid: (https://www.youtube.com/watch?v=gJWbVt2Nc-I) 
+
+## Chart showing impact on students.
 
 ![2016FloridaChart1]({{site.baseurl}}/Projects/infographic-feb2017-infocus-1024x497.png)
 
@@ -46,7 +40,11 @@ Week 2 vid: (https://www.youtube.com/watch?v=gJWbVt2Nc-I)
 ## Introduction to Open Educational Resources (OER)
 
 The following video offers a very brief introduction to OER. 
+- [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s) [2:22 min] Tundo
+- [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g) [2:09]
 
+- [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
+- [Faculty perspective - transition to accessibility](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
  
 ### What is OER?
 
@@ -155,7 +153,7 @@ Hypothesis can used in an education context to collaboratively annotate course r
 
 #### Journal Article Homework
 
-Littlejohn, Allison, and Nina Hood. **“How Educators Build Knowledge and Expand Their Practice: The Case of Open Education Resources.”** *British Journal of Educational Technology*, vol. 48, no. 2, 2017, pp. 499–510. Wiley Online Library, [doi:10.1111/bjet.12438](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjet.12438).
+
 
 
 # Works Cited
