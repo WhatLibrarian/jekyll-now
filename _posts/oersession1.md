@@ -1,8 +1,6 @@
 ---
 layout: post
 title: OER FEW Session 1
-permalink: /session1/
-published: true
 ---
 
 # Week 1  Introduction to Open, Why Open?
