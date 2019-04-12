@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: OER FEW: Session 1
+permalink: /session1/
 published: true
 ---
 
