@@ -1,4 +1,3 @@
-# Week 1  Introduction to Open, Why Open?
 
 **Keywords:** Open Access, Academic Libraries, Publishing, Creative Commons
 
@@ -10,14 +9,13 @@ Intent of this FEW is that we are in "...a site of praxis, a place where theorie
 (Robin DeRosa and Rajiv Jhangiani  ["ideas for implementing or experimenting with open pedagogy."](http://openpedagogy.org/open-pedagogy/) In the "What is Open Pedagogy" section.)
 
 
-### Classroom Introductions
-
+## Classroom Introductions
+___
+# Week 1  Introduction to Open, Why Open?
 ## Module 1 Learning Objectives
 - Understand Open
 - Ingest the 5 R's of Open
 - Begin deciding on OER FEW Project
-
-
 
 ### Defining the "Open" in Open Content and Open Educational Resources
 
@@ -28,44 +26,24 @@ The terms "open content" and "open educational resources" describe any copyright
 - Revise - the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
 - Remix - the right to combine the original or revised content with other material to create something new (e.g., incorporate the content into a mashup)
 - Redistribute - the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
-- - [David Wiley's definition](http://opencontent.org/definition/)
+- - [The 5 R's" from Defining the "Open" in Open Content and Open Educational Resources"](http://opencontent.org/definition/)
 
 
-
-## Chart showing impact on students.
-
-![2016FloridaChart1]({{site.baseurl}}/Projects/infographic-feb2017-infocus-1024x497.png)
-
-
-## Introduction to Open Educational Resources (OER)
+## Video Introduction to Open Educational Resources (OER)
 
 The following video offers a very brief introduction to OER. 
 - [OER Introduction](https://www.youtube.com/watch?v=ZFeyCc6we-s) [2:22 min] Tundo
 - [OER Introduction II](https://www.youtube.com/watch?v=Yfl1B6Qmp5g) [2:09]
 
 - [Student perspective](https://www.youtube.com/watch?time_continue=203&v=-EEGTfjS3Ak)
-- [Faculty perspective - transition to accessibility](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
- 
-### What is OER?
-
-Open educational resources are educational materials and resources offered freely and openly for anyone and available under a license that allows users to use, remix, improve and redistribute. Sharing ideas and resources and collaborating on projects as part of a community is key to the Open Education movement.
-
- 
-### What can you do with OER?
-
-Teachers bring OER to life. Open educational resources are innovative not just because they are free, but because of how teachers adopt and creatively adapt them, bringing them to life in the classroom in order to reach every student.
-
-- Retain - the right to make, own, and control copies of the content (e.g., download, duplicate, store, and manage)
-- Reuse - the right to use the content in a wide range of ways (e.g., in a class, in a study group, on a website, in a video)
-- Revise - the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)
-- Remix - the right to combine the original or revised content with other material to create something new (e.g., incorporate the content into a mashup)
-- Redistribute - the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)
-
-
-"[The 5 R's" from Defining the "Open" in Open Content and Open Educational Resources"](http://opencontent.org/definition/) by David Wiley, licensed under a CC BY license. 
+- [Faculty perspective](https://www.youtube.com/watch?v=-02UTHI-YI4&list=PLKaDnmLfGTbkAzboHYFcxqtjlz7XLh8AF&index=1)
 
  
 ### What are the benefits of creating and using Open Educational Resources?
+
+## Chart showing impact on students.
+
+![2016FloridaChart1]({{site.baseurl}}/Projects/infographic-feb2017-infocus-1024x497.png)
 
 #### OER offer financial and pedagogical benefits. 
 
@@ -79,19 +57,18 @@ Teachers bring OER to life. Open educational resources are innovative not just b
 Learn more about current research on the impact of OER at the [OER Research Hub website](http://oerhub.net/) 
 
  
-### OER is any material with an open license used for teaching or learning
-
-That means activities, curriculum, lesson or unit plans, professional development, textbooks, stories, tools, videos, wiki, full courses, podcasts, a syllabus... and more!
+![types of oer.png]({{site.baseurl}}/Projects/types of oer.png)
 
 
 
-### Activity Questions to Consider
+
+### Classroom Activity - Think Pair Share
 
 1. What do you like about your current textbook? What are the necessities for your students? In other words, what can you not give up? 
 2. What do you dislike about your current textbook? List everything that you do not like. Let’s assume that if you came to hear about open textbooks and other OER that you do not like the cost of a textbook. What else? 
-From [Alyson Indrunas](https://spokeandhub.wordpress.com/2017/03/25/adapt-adopt-build-hospitality-oer/) 
+**Questions by:** [Alyson Indrunas](https://spokeandhub.wordpress.com/2017/03/25/adapt-adopt-build-hospitality-oer/)
 
-
+____
 
 # Final Project Options (non-exclusive)
 
@@ -122,40 +99,39 @@ Reusable pieces in H5P (anciliary, auxiliary).  Share to Commons, tie to origina
 
 Yes, you can group annotate in Canvas, however, this will allow students to learn annotation skills and give them an introduction to an open scholarly communication tool that they can use in their professional lives.
 
-Example Uses in the classroom
+### Example Uses in the classroom
 
 Hypothesis can used in an education context to collaboratively annotate course readings and other internet resources.  Below is a list created by Hypothes.is providing ten suggestions on how the tools could be used in the classroom:
 
-* Teacher Annotations
- * Pre-populate a text with questions fro students to reply to in annotations or notes elucidating important points as they read.
-* Annotation as Gloss
- * Have students look up difficult words or unknown words or unknown allusions in a text and share their research as annotations.
-* Annotations as Question
- * Have students highlight, tag and annotate words or passages that are confusing to them in their readings.
+- Teacher Annotations
+- - Pre-populate a text with questions fro students to reply to in annotations or notes elucidating important points as they read.
+- * Annotation as Gloss
+-  * Have students look up difficult words or unknown words or unknown allusions in a text and share their research as annotations.
+- * Annotations as Question
+-  * Have students highlight, tag and annotate words or passages that are confusing to them in their readings.
 - Annotation as Close Reading
- - Have students identify formal textual elements and broader social and historical contexts at work in specific passages.
+-  - Have students identify formal textual elements and broader social and historical contexts at work in specific passages.
 - Annotation as Rhetorical Analysis
- - Have students mark and explain the use of rhetorical strategies in online articles or essays.
+-  - Have students mark and explain the use of rhetorical strategies in online articles or essays.
 - Annotation as Opinion
- - Have students share their personal opinions on a controversial topic as discussed by an article.
+-  - Have students share their personal opinions on a controversial topic as discussed by an article.
 - Annotation as Multimedia Writing
- - Have students annotate with images or integrate images and video into other types of annotations.
+-  - Have students annotate with images or integrate images and video into other types of annotations.
 - Annotations as Independent Study
- - Have students explore the Internet on thier own with some limited direction (find an article from a respectable source on a topic important to you personally), exercising literacy skills (define difficult words, identify persuasive strategies etc.)
+-  - Have students explore the Internet on thier own with some limited direction (find an article from a respectable source on a topic important to you personally), exercising literacy skills (define difficult words, identify persuasive strategies etc.)
 - Annotation as Annotated Bibliography
- -  Have students research a topic and tag and annotate relevant texts across the Internet.
+-  -  Have students research a topic and tag and annotate relevant texts across the Internet.
 - Annotations as Creative Act
- - Have students respond creatively to their reading with their own poetry, prose or visual art as annotations.
+-  - Have students respond creatively to their reading with their own poetry, prose or visual art as annotations.
+
 
 [You can read the full article here.](https://web.hypothes.is/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/)
 
 
 
-#### Journal Article Homework
 
 
-
-
+___
 # Works Cited
 
 Grimaldi, P. J., Basu Mallick, D., Waters, A. E., & Baraniuk, R. G. (2019). Do open educational resources improve student learning? Implications of the access hypothesis. PLOS ONE, 14(3), e0212508. https://doi.org/10.1371/journal.pone.0212508
