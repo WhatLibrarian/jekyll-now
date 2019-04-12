@@ -1,3 +1,10 @@
+---
+layout: page
+title: About
+permalink: /about/
+published: true
+---
+
 # Week 1  Introduction to Open, Why Open?
 
 **Keywords:** Open Access, Academic Libraries, Publishing, Creative Commons
