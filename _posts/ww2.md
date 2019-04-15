@@ -1,3 +1,8 @@
+---
+layout: page
+title: OER FEW Session 2
+---
+
 # Week 2 Outline:  "Into the Weeds"
 ![decorative grass]({{site.baseurl}}/Projects/grass-37282_640.png)
 ![grass decorative]({{site.baseurl}}/Projects/grass-37282.svg)
@@ -19,7 +24,7 @@ Outline
 
 Welcome
 1.	Copyright
-a.	Rights Reserved 
+a.	Rights Reserved
 b.	History and Growth
 c.	Fair Use Exemptions (Education)
 i.	“again today we have a federal court making it clear that fair use is not just a carve-out of the copyright system but a right on the same level of those described in the rest of the statute”
@@ -30,14 +35,14 @@ b.	Public Domain
 c.	Fed Docs
 
 
-#### Myths about Copyright 
-([original](http://www.templetons.com/brad/copymyths.html) by Brad Templeton) 
-- Copying just a little bit is OK. 
+#### Myths about Copyright
+([original](http://www.templetons.com/brad/copymyths.html) by Brad Templeton)
+- Copying just a little bit is OK.
 - Attribution is as good as permission.
-- It's free advertising. 
-- I modified it; now it's mine. 
+- It's free advertising.
+- I modified it; now it's mine.
 - It's OK--it's for educational purposes.
-- You have to give away all your rights to get published. 
+- You have to give away all your rights to get published.
 - It doesn't say it's copyrighted.
 - It's on the Web so I can use it without asking.
 
@@ -54,7 +59,7 @@ ___
 ![Fair Use Cartoon]({{site.baseurl}}/Projects/fairuseorigian.PNG)
 
 
-(https://www.slideshare.net/RachaelSamberg/copyright-fair-use-for-digital-projects-135078587) 
+(https://www.slideshare.net/RachaelSamberg/copyright-fair-use-for-digital-projects-135078587)
 ___
 # Handout
 ## Harvard's THE OFFICE FOR SCHOLARLY COMMUNICATION PRESENTS: FAIR USE
@@ -67,11 +72,11 @@ Fair use provisions of the copyright law allow use of copyrighted materials on a
 
 Fair use is an exception to copyright.
 
-One of the most famous, yet the least clear, of all the copyright limitations in the Copyright Act, is the doctrine of fair use. 
+One of the most famous, yet the least clear, of all the copyright limitations in the Copyright Act, is the doctrine of fair use.
 
-Under fair use, you may use copyrighted material without permission. 
+Under fair use, you may use copyrighted material without permission.
 
-The doctrine itself was rooted in both English and U.S. caselaw, but was eventually codified in the Copyright Act. 
+The doctrine itself was rooted in both English and U.S. caselaw, but was eventually codified in the Copyright Act.
 
 The source of fair use law is statutory: Section 107 of the Copyright Act provides for fair use of a work for purposes such as:
 
@@ -126,7 +131,7 @@ Courts occasionally boil down the 4 fair use factors to 2 questions:
 
 Including Grateful Dead posters in a book on the illustrated history of the band without permission of the artists was found to be a transformative fair use:
 
-"The images placed in chronological order on a timeline is transformatively different from the mere expressive use of images on concert posters." Quote from Bill Graham Archives v. Dorling Kindersley Ltd., 448 F.3d 605 (2d Cir. 2006). [Full case [pdf]](https://www.law.berkeley.edu/files/Bill_Graham_case.pdf). 
+"The images placed in chronological order on a timeline is transformatively different from the mere expressive use of images on concert posters." Quote from Bill Graham Archives v. Dorling Kindersley Ltd., 448 F.3d 605 (2d Cir. 2006). [Full case [pdf]](https://www.law.berkeley.edu/files/Bill_Graham_case.pdf).
 
 Poster's original purpose: concert promotion, ticket sales, and artistic expression. Poster's new purpose: transformative, educational, scholarly use on a timeline representing the history of a music subculture.
 
@@ -148,7 +153,7 @@ To aid a fair use, use only smaller or shorter portions of the copyrighted mater
 
 7. FINAL THOUGHTS
 
-Fair use is ultimately a balancing test. 
+Fair use is ultimately a balancing test.
 
 - To determine whether a use is or is not a fair use, always keep in mind that you must weigh all four factors, and apply the transformative fair use questions.
 - You must evaluate each use of copyrighted material individually.  Not all uses will be fair, but the system is designed to allow a great deal of flexibilty for new uses of copyrighted material.
