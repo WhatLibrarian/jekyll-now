@@ -86,7 +86,7 @@ Sharing supports the idea that the majority of learning occurs outside the class
 * Share to Canvas Commons and OER Commons.
 * If publisher has intake form, submission on form (stewardship)
 ### Video Introduction
-[![Pressbooks video introduction link](http://img.youtube.com/vi/MI1Q3vI49Y0/0.jpg))](https://www.youtube.com/watch?v=MI1Q3vI49Y0)
+[![Pressbooks video introduction link](http://img.youtube.com/vi/MI1Q3vI49Y0/0.jpg)](https://www.youtube.com/watch?v=MI1Q3vI49Y0)
 
 [Creation Resources](https://libguides.uta.edu/oer/creation)
 
