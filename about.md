@@ -5,12 +5,5 @@ permalink: /about/
 published: true
 ---
 
-This site is an experiment.
+### More Information Coming Soon
 
-### More Information
-
-
-
-### Contact me
-
-[email@domain.com](mailto:rmckernan@whatcom.edu)
