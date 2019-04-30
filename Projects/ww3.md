@@ -10,7 +10,7 @@ ___
 [7 Things You Should Know About Open Education: Practices.](https://library.educause.edu/resources/2018/7/7-things-you-should-know-about-open-education-practices) from Educause.
 
 
-## Guest Speaker Todd Watters
+## Guest Speaker Todd Waters "UDL & OER"
 ___
 ## Activity Review: Attribution statements for the internet.
 
