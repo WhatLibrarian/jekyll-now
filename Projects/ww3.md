@@ -21,6 +21,8 @@ This works best for communicating online as it generally provides the most relev
 - Author
 - Source
 - License
+
+[Creative Commons suggestions](https://creativecommons.org/use-remix/get-permission/)
 ___
 
 ![What is Open Ed.PNG]({{site.baseurl}}/Projects/What is Open Ed.PNG)
