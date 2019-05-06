@@ -3,14 +3,19 @@ ___
 
 ## Session 3 LO:
 - Discuss best practices for use of OER in courses including Universal Design and Open Pedagogy.
+___
+
+[Powerpoint Slides (PPT)](https://1drv.ms/p/s!Ag8eizeb-0eygoc6P2mVK4IPMTSELQ)
 
 ___
 
 ### Pre-session READ 
 [7 Things You Should Know About Open Education: Practices.](https://library.educause.edu/resources/2018/7/7-things-you-should-know-about-open-education-practices) from Educause.
 
-
+___
 ## Guest Speaker Todd Waters "UDL & OER"
+
+[Canvas Templates](https://wcc.instructure.com/courses/1763751)
 ___
 ## Activity Review: Attribution statements for the internet.
 
@@ -40,10 +45,7 @@ ___
 ![oerg.PNG]({{site.baseurl}}/Projects/oerg.PNG)
 Citation: Jhangiani, Ravi. [“A Recipe for a Successful Institutional Open Education Initiative.”](https://wcetfrontiers.org/2019/02/06/successful-institutional-open-education-initiative/) WCET Frontiers, 6 Feb. 2019.
 
-
-[Slides](https://speakerdeck.com/actualham/introduction-to-open-pedagogy)
-
-
+___
 
 ## Wrap Up
 OER Stewardship
@@ -57,7 +59,7 @@ https://twitter.com/maeverawr/status/1110927807826350080
 
 [![Tweet image]({{site.baseurl}}/Projects/twitimage2.PNG)](https://twitter.com/maeverawr/status/1110927807826350080)
 
-[Last Handout](
+
 
 ## Deliverable Reminder
 Due Dates?
@@ -68,7 +70,7 @@ Littlejohn, Allison, and Nina Hood. “How Educators Build Knowledge and Expand 
 
 
 ### Additional Resources
--[Building Open Infrastructure at CUNY](https://cuny.manifoldapp.org/read/untitled-84d43a1f-0a80-4404-ad34-448a687f9d49/section/ddfef264-cc13-4636-9773-8565b5742a59)
+- [Building Open Infrastructure at CUNY](https://cuny.manifoldapp.org/read/untitled-84d43a1f-0a80-4404-ad34-448a687f9d49/section/ddfef264-cc13-4636-9773-8565b5742a59)
 - [Teach Access Portal](https://teachaccess.github.io/tutorial/#/0)
 - [The Programming Historian](https://programminghistorian.org/)
 - [The Open Faculty Patchbook - A Community Quilt of Pedagogy](https://facultypatchbook.pressbooks.com/)
